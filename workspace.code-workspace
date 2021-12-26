@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\50projects50days-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "50-Projects-In-50-Days"
+  }
+}
